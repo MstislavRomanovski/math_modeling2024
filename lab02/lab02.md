@@ -104,14 +104,14 @@ $\frac{x}{v}=\frac{k+x}{nv}$ во втором.
 Она равна произведению угловой скорости $\frac{d\theta}{dt}$ на радиус r , $v_r=r\frac{d\theta}{dt}$
 ![1](Screens/1.png)
 (Screen 1)
-Из рисунка видно: $v_{\tau}=\sqrt[2]{4v^2-v^{2}}=\sqrt[2]{3}v$.
-Тогда получаем $r\frac{d\theta}{dt}=\sqrt[2]{3}v$.
+Из рисунка видно: $v_{\tau}=\sqrt[2]{4v^2-v^{2}}=\sqrt[2]{4.2}v$.
+Тогда получаем $r\frac{d\theta}{dt}=\sqrt[2]{4.2}v$.
 
 6. Решение исходной задачи сводится к решению системы из двух дифференциальных уравнений 
 \begin{equation*}
  \begin{cases}
    \frac{dr}{dt} =  v\\
-   \frac{d\theta}{dt} =  \sqrt[2]{3}v
+   \frac{d\theta}{dt} =  \sqrt[2]{4.2}v
  \end{cases}
 \end{equation*}
 
@@ -132,7 +132,7 @@ $\frac{x}{v}=\frac{k+x}{nv}$ во втором.
 \end{equation*}
 
 Исключая из полученной системы производную по t, можно перейти к следующему уравнению:
-$\frac{dr}{d\theta}=\theta{r}{\sqrt[2]{3}}$
+$\frac{dr}{d\theta}=\theta{r}{\sqrt[2]{4.2}}$
 
 Для решения задачи напишем такой код 
 
