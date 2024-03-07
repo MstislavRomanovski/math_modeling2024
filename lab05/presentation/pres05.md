@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа номер 4
+title: Лабораторная работа номер 5
 author: Malkov Roman Sergeevich
 date: 01.03.2024
 
