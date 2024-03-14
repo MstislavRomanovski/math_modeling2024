@@ -1,0 +1,14 @@
+\babel@toc {russian}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Графики численности особей трех групп S, I, R, построенные на Julia, для случая, когда больные изолированы}}{13}{figure.0.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Графики численности особей трех групп S, I, R, построенные на Julia, для случая, когда больные могут заражать особей группы S}}{14}{figure.0.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Графики численности особей трех групп S, I, R, построенные в OpenModelica, для случая, когда больные изолированы}}{16}{figure.0.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Графики численности особей трех групп S, I, R, построенные в OpenModelica, для случая, когда больные могут заражать особей группы S}}{16}{figure.0.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
